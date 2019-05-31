@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Where2go</string>
+    <string name="explanation_permission">This app needs location permission to be able to show your location on the map</string>
+    <string name="not_granted_location">User location was not granted</string>
+</resources>
